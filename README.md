@@ -3,7 +3,7 @@ Essential knowledge and files for Github.
 
 For a good Unity3d project with Git(hub), follow the following steps:
 
-- Create a git repo online (eg. github.com).
+- Create a git repository online (eg. github.com).
 - Save your Unity project on your local filesystem.
 - Enable External option in Unity → Preferences → Packages → Repository (only if Unity ver < 4.5).
 - Switch to "Visible Meta Files" in Edit → Project Settings → Editor → Version Control Mode.
