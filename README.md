@@ -14,6 +14,6 @@ For a good Unity3d project with Git(hub), follow the following steps:
 - Create a .gitignore file using the text in the .gitignore file from this repository.
 - Make your first commit in Git(hub).
 
-Make sure to add a GPL license to the repository.
+Make sure to add a GNU V3 license to the repository.
 
 *1: Not necessary, but saves space and errors.
